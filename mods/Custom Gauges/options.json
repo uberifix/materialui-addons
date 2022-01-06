@@ -1,0 +1,71 @@
+{
+	"author": "uberifix",
+	"author_contact": "Arisa [uberifix]#4213",
+	"name": "Custom Gauges",
+	
+	"description": "Full Customisation for parameter gauges. Customise gauges empty, fill, and lost layers base and gradation colour. ",
+	
+	"color_options": [
+		{
+			"id": "cga_base_fill",
+			"name": "Gauge - Fill base",
+			"default": {"r": 190,"g": 190,"b": 190}
+		},
+		{
+			"id": "cga_grad_fill",
+			"name": "Gauge - Fill gradation",
+			"default": {"r": 60,"g": 60,"b": 60}
+		},
+		{
+			"id": "cga_base_lost",
+			"name": "Gauge - Lost base",
+			"default": {"r": 185,"g": 45,"b": 45}
+		},
+		{
+			"id": "cga_grad_lost",
+			"name": "Gauge - Lost gradation",
+			"default": {"r": 140,"g": 30,"b": 30}
+		},
+		{
+			"id": "cga_base_empty",
+			"name": "Gauge - Empty base",
+			"default": {"r": 65,"g": 70,"b": 75}
+		},
+		{
+			"id": "cga_grad_empty",
+			"name": "Gauge - Empty gradation",
+			"default": {"r": 55,"g": 60,"b": 65}
+		},
+		{
+			"id": "cga_glow",
+			"name": "Gauge - Extra glow (unused)",
+			"default": {"r": 255,"g": 255,"b": 255}
+		}
+	],
+	
+	"penumbra": [
+        {
+            "name": "Gauges",
+            "options": {
+                "roundcolour": [
+                    "ui/uld/jobhudmnk0",
+                    "ui/uld/jobhudsam1",
+                    "ui/uld/jobhudsimple_stacka",
+                    "ui/uld/jobhudsimple_stackb",
+                    "ui/uld/jobhudsmn1",
+                    "ui/uld/parameter_gauge/option/roundcolour",
+                    "ui/uld/parameter_gauge2/option/roundcolour"
+                ],
+                "squarecolour": [
+                    "ui/uld/jobhudmnk0",
+                    "ui/uld/jobhudsam1",
+                    "ui/uld/jobhudsimple_stacka",
+                    "ui/uld/jobhudsimple_stackb",
+                    "ui/uld/jobhudsmn1",
+                    "ui/uld/parameter_gauge/option/squarecolour",
+                    "ui/uld/parameter_gauge2/option/squarecolour"
+                ]
+            }
+        }
+    ]
+}

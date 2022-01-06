@@ -1,0 +1,27 @@
+{
+    "penumbra": [
+        {
+            "name": "Gauges",
+            "options": {
+                "roundcolour": [
+                    "ui/uld/jobhudmnk0",
+                    "ui/uld/jobhudsam1",
+                    "ui/uld/jobhudsimple_stacka",
+                    "ui/uld/jobhudsimple_stackb",
+                    "ui/uld/jobhudsmn1",
+                    "ui/uld/parameter_gauge/option/roundcolour",
+                    "ui/uld/parameter_gauge2/option/roundcolour"
+                ],
+                "squarecolour": [
+                    "ui/uld/jobhudmnk0",
+                    "ui/uld/jobhudsam1",
+                    "ui/uld/jobhudsimple_stacka",
+                    "ui/uld/jobhudsimple_stackb",
+                    "ui/uld/jobhudsmn1",
+                    "ui/uld/parameter_gauge/option/squarecolour",
+                    "ui/uld/parameter_gauge2/option/squarecolour"
+                ]
+            }
+        }
+    ]
+}
